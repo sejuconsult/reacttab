@@ -1,2 +1,2 @@
 # reacttab
-Showcase for creating dynamic boostrab tabs in react
+Showcase for creating dynamic bootstrap tabs in react
